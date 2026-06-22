@@ -1,0 +1,101 @@
+org_id,org_name,sector,city
+1,GTBank,Banking,Lagos
+2,Access Bank,banking,lagos
+3,First Bank,BANKING,LAGOS
+4,Zenith Bank,Banking,Lagos
+5,UBA,Banking,Lagos 
+6,Stanbic IBTC,Banking,Lagos
+7,Ecobank Nigeria,banking,Lagos
+8,Fidelity Bank,Banking,lagos
+9,Sterling Bank,Banking,Lagos
+10,Wema Bank,BANKING,Lagos
+11,Polaris Bank,Banking,Lagos
+12,Union Bank,banking,Lagos
+13,Keystone Bank,Banking,Abuja
+14,Heritage Bank,BANKING,Lagos
+15,Providus Bank,Banking,Lagos
+16,SunTrust Bank,banking,Abuja
+17,Jaiz Bank,Banking,Abuja
+18,Titan Trust Bank,Banking,Lagos
+19,Coronation Merchant Bank,Banking,Lagos
+20,FCMB,BANKING,Lagos
+21,Flutterwave,Fintech,Lagos
+22,Paystack,fintech,Lagos
+23,Opay,Fintech,Lagos
+24,Kuda Bank,FINTECH,Lagos
+25,Moniepoint,Fintech,Lagos
+26,PalmPay,Fintech,Lagos
+27,Cowrywise,fintech,Lagos
+28,Piggyvest,Fintech,Lagos
+29,Carbon,Fintech,Lagos
+30,Chipper Cash,Fintech,Lagos
+31,Bankly,fintech,Lagos
+32,Paga,Fintech,Lagos
+33,TeamApt,FINTECH,Lagos
+34,Interswitch,Fintech,Lagos
+35,Remita,fintech,Abuja
+36,VFD Microfinance,Fintech,Lagos
+37,Eyowo,Fintech,Lagos
+38,Brass,FINTECH,Lagos
+39,Sudo Africa,Fintech,Lagos
+40,Monnify,fintech,Lagos
+41,MTN Nigeria,Telecom,Lagos
+42,Airtel Nigeria,telecom,Lagos
+43,Glo Mobile,Telecom,Lagos
+44,9mobile,TELECOM,Lagos
+45,Spectranet,Telecom,Lagos
+46,Smile Communications,telecom,Lagos
+47,ipNX Nigeria,Telecom,Lagos
+48,Suburban Fiber,TELECOM,Lagos
+49,MainOne,Telecom,Lagos
+50,Galaxy Backbone,telecom,Abuja
+51,NIMC,Government,Abuja
+52,INEC,government,Abuja
+53,CBN,Government,abuja
+54,NNPC,GOVERNMENT,Abuja
+55,FIRS,Government,Abuja
+56,NCC,Government,Abuja
+57,NITDA,government,ABUJA
+58,DSS,Government,Abuja
+59,Nigerian Army,Government,Abuja
+60,NPC,Government,Abuja
+61,EFCC,government,Abuja
+62,ICPC,Government,Abuja
+63,NIS,GOVERNMENT,Abuja
+64,NSCDC,Government,Abuja
+65,Federal Ministry of Finance,Government,Abuja
+66,Federal Ministry of Health,government,Abuja
+67,Lagos State Government,Government,Lagos
+68,Rivers State Government,GOVERNMENT,Port Harcourt
+69,Kano State Government,Government,Kano
+70,Ogun State Government,government,Abeokuta
+71,Lagos University Teaching Hospital,Healthcare,Lagos
+72,ABUTH Zaria,healthcare,Kaduna
+73,UCH Ibadan,Healthcare,Ibadan
+74,UNTH Enugu,HEALTHCARE,Enugu
+75,LUTH Health Records,Healthcare,Lagos
+76,National Hospital Abuja,healthcare,Abuja
+77,Aminu Kano Teaching Hospital,Healthcare,Kano
+78,UNILAG Medical Centre,HEALTHCARE,Lagos
+79,Reddington Hospital,Healthcare,Lagos
+80,Eko Hospital,healthcare,Lagos
+81,St. Nicholas Hospital,Healthcare,Lagos
+82,Lagoon Hospital,Healthcare,Lagos
+83,Cedarcrest Hospital,HEALTHCARE,Abuja
+84,Medicaid Cancer Foundation,Healthcare,Port Harcourt
+85,Euracare Hospital,healthcare,Lagos
+86,Shell Nigeria,Oil & Gas,Port Harcourt
+87,Chevron Nigeria,oil & gas,Lagos
+88,TotalEnergies NG,Oil & Gas,Lagos
+89,Seplat Energy,OIL & GAS,Abuja
+90,Oando,Oil & Gas,Lagos
+91,Aiteo Group,oil & gas,Lagos
+92,Dangote Oil Refinery,Oil & Gas,Lagos
+93,Ardova Petroleum,OIL & GAS,Lagos
+94,Conoil,Oil & Gas,Lagos
+95,11 Plc,oil & gas,Lagos
+96,University of Lagos,Education,Lagos
+97,ABU Zaria,education,Kaduna
+98,UI Ibadan,Education,Ibadan
+99,OAU Ile-Ife,EDUCATION,Ile-Ife
+100,UNILAG Portal,Education,Lagos

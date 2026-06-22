@@ -1,0 +1,16 @@
+attack_type_id,attack_name,description,default_severity
+1,Phishing,Social engineering via deceptive emails or messages,High
+2,Ransomware,Malware encrypting data and demanding payment for decryption,Critical
+3,Data Breach,Unauthorised access and extraction of sensitive data,High
+4,DDoS,Distributed denial-of-service overwhelming system resources,Medium
+5,Insider Threat,Malicious or negligent actions by internal staff or contractors,High
+6,SQL Injection,Exploiting vulnerabilities in database query inputs,High
+7,Account Takeover,Unauthorised access via stolen or compromised credentials,Medium
+8,Malware,Malicious software disrupting or damaging systems,Medium
+9,Man-in-the-Middle,Intercepting communications between two parties,High
+10,Zero-Day Exploit,Attack exploiting previously unknown software vulnerability,Critical
+11,Business Email Compromise,Fraudulent emails impersonating executives to authorise transfers,Critical
+12,Credential Stuffing,Using leaked credentials to gain unauthorised account access,Medium
+13,Supply Chain Attack,Compromising software or hardware in the supply chain,Critical
+14,Cryptojacking,Unauthorised use of systems to mine cryptocurrency,Low
+15,Social Engineering,Manipulating individuals into divulging confidential information,Medium

@@ -1,0 +1,41 @@
+team_id,team_name,base_city,status
+1,Alpha Response Team,Lagos,Active
+2,Beta Cyber Unit,Lagos,Active
+3,Gamma Force,Abuja,Active
+4,Delta Shield,Abuja,Active
+5,Eagle Eye Unit,Port Harcourt,Active
+6,Falcon Response,Port Harcourt,Active
+7,Kano Cyber Unit,Kano,Active
+8,Ibadan Digital Guard,Ibadan,Active
+9,Enugu Secure Team,Enugu,Active
+10,Kaduna Cyber Force,Kaduna,Active
+11,Red Team Lagos,Lagos,Active
+12,Blue Team Abuja,Abuja,Active
+13,Green Shield Unit,Lagos,Active
+14,North Cyber Command,Kano,Active
+15,South Cyber Command,Port Harcourt,Active
+16,East Cyber Command,Enugu,Active
+17,West Cyber Command,Ibadan,Active
+18,Federal Cyber Response,Abuja,Active
+19,Critical Assets Team,Abuja,Active
+20,Rapid Response Unit,Lagos,Active
+21,Fintech Security Squad,Lagos,Active
+22,Banking Cyber Defense,Lagos,Active
+23,Oil Sector Cyber Unit,Port Harcourt,Active
+24,Health Data Protection,Lagos,Active
+25,Telecom Security Force,Lagos,Active
+26,Government IT Response,Abuja,Active
+27,Benin Cyber Unit,Benin City,Active
+28,Warri Cyber Team,Warri,Active
+29,Aba Digital Response,Aba,Active
+30,Calabar Cyber Shield,Calabar,Active
+31,Uyo Security Unit,Uyo,Active
+32,Jos Cyber Command,Jos,Active
+33,Maiduguri Response Team,Maiduguri,Active
+34,Sokoto Cyber Unit,Sokoto,Active
+35,Ilorin Digital Force,Ilorin,Active
+36,Abeokuta Cyber Team,Abeokuta,Active
+37,Owerri Security Squad,Owerri,Active
+38,Asaba Cyber Response,Asaba,Active
+39,Akure Digital Shield,Akure,Active
+40,Osogbo Cyber Unit,Osogbo,Active
