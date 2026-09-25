@@ -6,6 +6,10 @@ A SQL-driven analysis of cybersecurity incidents across Nigerian organizations f
 
 ---
 
+**Full write-up:** https://app.notion.com/p/3e3b332e9de281668fe4fc852dbad22c (Notion case study — full findings, methodology, and SQL appendix)
+
+---
+
 ## Key Findings
 
 - **Banking sector** suffered the highest financial losses of any sector affected by cyber attacks.
