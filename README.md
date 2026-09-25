@@ -6,7 +6,7 @@ A SQL-driven analysis of cybersecurity incidents across Nigerian organizations f
 
 ---
 
-**Full write-up:** https://app.notion.com/p/3e3b332e9de281668fe4fc852dbad22c (Notion case study — full findings, methodology, and SQL appendix)
+**Full write-up:** https://achieved-flannel-c99.notion.site/Nigeria-Cybersecurity-Incident-Analysis-2019-2024-3e3b332e9de281668fe4fc852dbad22c (Notion case study — full findings, methodology, and SQL appendix)
 
 ---
 
